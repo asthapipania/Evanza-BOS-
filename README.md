@@ -143,10 +143,11 @@ Each event has a unique QR code. Clients scan it, submit their phone number, and
 ---
 
 ## 🔗 Important Links
+
 - **[Pitch Video]()** ← _Add link here_
-- **[Live Demo]()** ← _Add link if available_
--(Bank%20Of%20Singapore%60%20(1).pptx)← _Very important please take a look_
+- **[UI/UX Mockups – Take a Look (Very Important)](Bank%20Of%20Singapore%60%20(1).pptx)**
 - **[LinkedIn Profile]()** ← _Add your profile link here_
+
 
 ---
 
