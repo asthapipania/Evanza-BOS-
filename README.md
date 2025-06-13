@@ -28,7 +28,7 @@ Secure user authentication with **role-based dashboards**:
 
 > 🔐 *All workflows enforce role-based access control (RBAC) — bankers, managers, and event teams see only permitted data.*
 
-*🔒 ![Login Page](Login_img.png)
+*![Login Page](Login_img.png)
 
 
 
@@ -39,12 +39,12 @@ Secure user authentication with **role-based dashboards**:
 #### a. **Create New Event**
 Define and register event parameters. Each event gets a **unique Event ID**.
 
-*🧩 Image Placeholder: Create Event Screen*
+*🧩 ![Create Event Screen](Create_event.png)
 
 #### b. **Set Selection Criteria**
 Choose client type (Prospect or Existing), define **AUM & Revenue thresholds** to auto-generate a qualified client shortlist.
 
-*🎯 Image Placeholder: Selection Criteria UI*
+*🎯 ![Selection Criteria](selection_criteria.png)
 
 ---
 
