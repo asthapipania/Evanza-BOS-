@@ -144,7 +144,7 @@ Each event has a unique QR code. Clients scan it, submit their phone number, and
 
 ## 🔗 Important Links
 
-- **[Pitch Video]()** ← _Add link here_
+- **[Pitch Video](https://www.youtube.com/watch?v=ZTe8qH7zwHA)**
 - **[UI/UX Design – Take a Look (Very Important)](Bank%20Of%20Singapore%60%20(1).pptx)**
 - **[LinkedIn Profile](https://www.linkedin.com/in/astha-pipania-b91129281/)**
 
