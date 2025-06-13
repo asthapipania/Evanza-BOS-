@@ -39,12 +39,12 @@ Secure user authentication with **role-based dashboards**:
 #### a. **Create New Event**
 Define and register event parameters. Each event gets a **unique Event ID**.
 
-*🧩 ![Create Event Screen](Create_event.png)
+* ![Create Event Screen](Create_event.png)
 
 #### b. **Set Selection Criteria**
 Choose client type (Prospect or Existing), define **AUM & Revenue thresholds** to auto-generate a qualified client shortlist.
 
-*🎯 ![Selection Criteria](selection_criteria.png)
+* ![Selection Criteria](selection_criteria.png)
 
 ---
 
@@ -58,10 +58,13 @@ Bankers select an event ID to view its full detail and selection filters.
 - View data in gallery format.
 - Nominate using a dropdown.
 
-*📈 Image Placeholder: Client Gallery with Nomination Dropdown*
+*![Nomination Window](Nomination_window.png)
 
 #### c. **Notifications & Auto-Invites**
-Bankers are notified when nominations are approved and can **auto-send invites**.
+Bankers are notified when nominations are approved  via notification system of evanza and can **auto-send invites**.
+*![Notifications](notifications.png)
+*![Auto - Invites](auto_invite.png)
+
 
 #### d. **RSVP & Re-Nomination**
 - Invited clients respond via email.
