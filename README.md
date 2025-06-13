@@ -28,7 +28,8 @@ Secure user authentication with **role-based dashboards**:
 
 > 🔐 *All workflows enforce role-based access control (RBAC) — bankers, managers, and event teams see only permitted data.*
 
-*🔒 ![Login Page](login_img.png)
+*🔒 ![Login Page](Login_img.png)
+
 
 
 ---
