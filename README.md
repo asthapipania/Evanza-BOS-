@@ -1,6 +1,6 @@
-# 🌟 EvAnza — Smart Event Nomination Platform for Banks
+# 🌟 Evanza — Smart Event Nomination Platform for Banks
 
-EvAnza is a secure, end-to-end platform designed to help banks seamlessly plan events, filter and nominate the right clients, track attendance, and analyze post-event impact — all within a unified Microsoft-powered ecosystem.
+Evanza is a secure, end-to-end platform designed to help banks seamlessly plan events, filter and nominate the right clients, track attendance, and analyze post-event impact — all within a unified Microsoft-powered ecosystem.
 
 ---
 
@@ -146,7 +146,7 @@ Each event has a unique QR code. Clients scan it, submit their phone number, and
 
 - **[Pitch Video]()** ← _Add link here_
 - **[UI/UX Mockups – Take a Look (Very Important)](Bank%20Of%20Singapore%60%20(1).pptx)**
-- **[LinkedIn Profile]()** ← _Add your profile link here_
+- **[LinkedIn Profile](https://www.linkedin.com/in/astha-pipania-b91129281/)** ← _Add your profile link here_
 
 
 ---
