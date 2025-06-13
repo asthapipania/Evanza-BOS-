@@ -82,7 +82,7 @@ Managers review nominations and **approve or reject** each client. Final decisio
 - **Feedback Reports** (via Microsoft Forms)
 - **Budget vs Actual Cost Comparison**
 
-*📊 Image Placeholder: Budget Analytics Screen*
+*![Budget](Budget.png)
 
 ---
 
@@ -93,7 +93,7 @@ Each event has a unique QR code. Clients scan it, submit their phone number, and
 
 > **Real-time attendance validation via Microsoft Forms**, blocking unauthorized entries and maintaining tamper-proof logs.
 
-*📷 Image Placeholder: QR Code Demo*
+*![QR_code_attendance](QR_code_attendance.png)
 
 ---
 
@@ -103,7 +103,7 @@ Each event has a unique QR code. Clients scan it, submit their phone number, and
 - Feedback forms to evaluate satisfaction and gather suggestions.
 - Manager dashboard reflects this data for **continuous improvement**.
 
-*📬 Image Placeholder: Feedback Form UI*
+*![Feedback_Analytics](Feedback_analytics.png)
 
 ---
 
