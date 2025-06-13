@@ -145,7 +145,7 @@ Each event has a unique QR code. Clients scan it, submit their phone number, and
 ## 🔗 Important Links
 - **[Pitch Video]()** ← _Add link here_
 - **[Live Demo]()** ← _Add link if available_
-- **[UI Screens Deck](./Bank%20Of%20Singapore%60%20(1).pptx)** ← _This file_
+[👉 Click to view the UI Deck (PPTX)](Bank%20Of%20Singapore%60%20(1).pptx)
 - **[LinkedIn Profile]()** ← _Add your profile link here_
 
 ---
